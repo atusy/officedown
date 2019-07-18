@@ -15,6 +15,7 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: knitr, 
+ bookdown,
  rmarkdown, 
  officer (>= 0.3.3), 
  xml2, 
